@@ -1,0 +1,17 @@
+.slider{
+    position: absolute !important;
+    right: 1px !important;
+    width: 2px !important;
+    background: #c69026 !important;
+    left: auto !important;
+}
+/* Apply Cascadia Code font to the primary sidebar */
+.sidebar .monaco-list-row {
+    font-family: "Cascadia Code", monospace !important;
+    font-weight: 300;
+}
+/* Apply Cascadia Code font to the secondary sidebar */
+.monaco-pane-view {
+    font-family: "Cascadia Code", monospace !important;
+    font-weight: 300;
+}
