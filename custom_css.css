@@ -9,9 +9,11 @@
 .sidebar .monaco-list-row {
     font-family: "Cascadia Code", monospace !important;
     font-weight: 300;
+    font-size: 13;
 }
 /* Apply Cascadia Code font to the secondary sidebar */
 .monaco-pane-view {
     font-family: "Cascadia Code", monospace !important;
     font-weight: 300;
+    font-size: 13;
 }
